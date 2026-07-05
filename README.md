@@ -1,16 +1,26 @@
-# React + Vite
+# Rockstar Games Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+This project is a frontend clone of the Rockstar Games website, built with React and Vite.
 
-Currently, two official plugins are available:
+## Features
+- Modern navbar inspired by the Rockstar Games website
+- Clean React-based UI structure
+- Fast development setup with Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- React
+- Vite
+- CSS
 
-## React Compiler
+## Getting Started
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Project Purpose
+This project is a practice frontend implementation aimed at recreating the look and feel of the Rockstar Games website using React.
